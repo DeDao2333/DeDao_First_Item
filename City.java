@@ -8,6 +8,7 @@ public class City {
     private int id;
     private String cityName;
     private String cityCode;
+    private String Nothing;
 
     public void setId(int id) {
         this.id = id;
